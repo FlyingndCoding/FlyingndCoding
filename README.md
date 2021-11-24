@@ -32,3 +32,5 @@
 ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
 ![Chrome](https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png)
 ![Safari](https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png)
+![BraveBeta](https://user-images.githubusercontent.com/94818620/143243295-7a42b0de-90b1-49bf-a78f-3b29750059c0.png)
+
