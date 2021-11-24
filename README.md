@@ -17,3 +17,11 @@
 <a href="https://www.mongodb.com/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
 </a>
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Discord](https://img.shields.io/badge/%https://dsc.gg/thegreats-rewards%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Twitch](https://img.shields.io/badge/hestreamschess-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)
+![Twitter](https://img.shields.io/badge/rishitsrivastav12-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+![YouTube](https://img.shields.io/badge/ SᑗS-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
