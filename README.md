@@ -27,4 +27,4 @@
 ![YouTube](https://img.shields.io/badge/SᑗS-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
-! [Discord.js] (https://camo.githubusercontent.com/8da518591fac5c161f0c234648d5e7ecc69f7e21549ff52c4ee95e11019601af/68747470733a2f2f692e696d6775722e636f6d2f775354466b524d2e706e67)
+https://camo.githubusercontent.com/8da518591fac5c161f0c234648d5e7ecc69f7e21549ff52c4ee95e11019601af/68747470733a2f2f692e696d6775722e636f6d2f775354466b524d2e706e67
