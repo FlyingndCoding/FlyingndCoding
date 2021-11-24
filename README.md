@@ -26,6 +26,9 @@
 ![Twitter](https://img.shields.io/badge/rishitsrivastav12-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 ![YouTube](https://img.shields.io/badge/SᑗS-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
 ![Discord.js](https://user-images.githubusercontent.com/94818620/143242985-f3dc505f-9022-4fed-a254-215d3dbcc966.png)
 
+## Browsers
+![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
+![Chrome](https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png)
+![Safari](https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png)
