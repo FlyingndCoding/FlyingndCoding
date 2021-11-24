@@ -22,6 +22,6 @@
 ![Discord](https://img.shields.io/badge/%https://dsc.gg/thegreats-rewards%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Twitch](https://img.shields.io/badge/hestreamschess-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)
 ![Twitter](https://img.shields.io/badge/rishitsrivastav12-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
-![YouTube](https://img.shields.io/badge/ SᑗS-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+![YouTube](https://img.shields.io/badge/SᑗS-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
