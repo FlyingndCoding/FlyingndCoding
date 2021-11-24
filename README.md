@@ -2,7 +2,7 @@
 
 ## <img align="left" src="https://komarev.com/ghpvc/?username=FlyingndCoding&label=Profile%20views&color=009127" alt="Profile views"/>
 ## ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=flyingndcoding&show_icons=true&theme=radical)
-## (https://github-readme-stats.vercel.app/api/top-langs/?username=flyingndcoding)
+
 
 
 ## ⚡ Languages and Tools
@@ -35,4 +35,12 @@
 ![Chrome](https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png)
 ![Safari](https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png)
 ![BraveBeta](https://user-images.githubusercontent.com/94818620/143243295-7a42b0de-90b1-49bf-a78f-3b29750059c0.png)
+
+## Operating Systems
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
