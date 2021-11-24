@@ -1,6 +1,6 @@
 ## Nice seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-## ![Views](https://komarev.com/ghpvc/?username=FlyingnCoding&style=flat-square)
+## <img align="left" src="https://komarev.com/ghpvc/?username=FlyingndCoding&label=Profile%20views&color=009127" alt="Profile views"/>
 
 
 ## ⚡ Languages and Tools
