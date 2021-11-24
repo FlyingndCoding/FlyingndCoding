@@ -2,6 +2,7 @@
 
 ## <img align="left" src="https://komarev.com/ghpvc/?username=FlyingndCoding&label=Profile%20views&color=009127" alt="Profile views"/>
 ## ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=flyingndcoding&show_icons=true&theme=radical)
+##[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flyingndcoding)]
 
 
 ## ⚡ Languages and Tools
