@@ -2,8 +2,7 @@
 ## I love to contribute on discord.js bots and language translation
 ## <img align="left" src="https://komarev.com/ghpvc/?username=FlyingndCoding&label=Profile%20views&color=009127" alt="Profile views"/>
 ## ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=flyingndcoding&show_icons=true&theme=radical)
-
-
+##<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flyingndcodinglayout=compact&theme=dark" alt="top-langs" />
 
 ## ⚡ Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
