@@ -4,15 +4,19 @@
 ## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flyingndcoding&langs_count=8)]
 ## ![ GitHub languages stats](https://github-readme-stats.vercel.app/api?username=flyingndcoding&show_icons=true&theme=algolia)
 
+
+
 <a href="https://github.com/Flyingndcoding/">
         <img src="https://komarev.com/ghpvc/?username=Vladimir឵&color=red" />
   </a> 
 <br>
 <br>
 <a href="https://discord.com/users/914121588511739965">
-        <img src="https://lanyard-profile-readme.vercel.app/api/603948445362946084?idleMessage=%22May%20The%20Code%20Be%20With%20you%22&borderRadius=25px" />
+        <img src="https://lanyard-profile-readme.vercel.app/api/914121588511739965?idleMessage=%22Join%20The%20Vladimir's%20Camp%20Right%20Now!!%22&borderRadius=25px" />
     </a>
 </p>
+
+
 ## ⚡ Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
