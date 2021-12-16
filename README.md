@@ -1,4 +1,11 @@
+
+
 ## Nice seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+
+
+<img style="-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://discord.c99.nl/widget/theme-3/914121588511739965.png">
+
+
 ## I love to contribute on discord.js bots and language translation
 ## <img align="left" src="https://komarev.com/ghpvc/?username=FlyingndCoding&label=Profile%20views&color=009127" alt="Profile views"/>
 ## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flyingndcoding&langs_count=8)]
