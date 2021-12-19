@@ -2,7 +2,7 @@
 
 ## Nice seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-<p align="center"> <img src="https://discord.c99.nl/widget/theme-3/914121588511739965.png" alt="Discord" /> </p>
+<img style="-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://discord.c99.nl/widget/theme-3/842336228614602772.png">
 
 
 ## I love to contribute on discord.js bots and language translation
