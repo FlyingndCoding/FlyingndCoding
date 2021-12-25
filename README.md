@@ -51,4 +51,5 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ## Stats about my github
-![Metrics](https://github.com/Flyingndcoding/Flyingndcoding/blob/master/github-metrics.svg)
+
+![Metrics](https://github.com/FlyingndCoding/FlyingndCoding/blob/main/github-metrics.svg)
